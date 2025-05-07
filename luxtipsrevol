@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LuxeTips Nail Spa</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #fffafc; color: #333; }
+    header, footer { background: #f06ca4; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #ffecf2; padding: 10px; text-align: center; }
+    nav a { margin: 0 10px; text-decoration: none; color: #f06ca4; font-weight: bold; }
+    .container { padding: 30px; max-width: 1000px; margin: auto; }
+    h2 { color: #f06ca4; }
+    .service, .faq, .staff { margin-bottom: 25px; }
+    .staff-member { margin-bottom: 10px; }
+    .package, .addon { margin-left: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LuxeTips Nail Spa</h1>
+    <p>Where Elegance Meets Wellness</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#pricing">Pricing</a>
+    <a href="#staff">Our Team</a>
+    <a href="#faq">FAQs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <section id="services" class="service">
+      <h2>Services</h2>
+      <ul>
+        <li>Classic Manicure & Pedicure</li>
+        <li>Gel, Dip Powder & Acrylic Nails</li>
+        <li>Nail Art & Custom Designs</li>
+        <li>Hot Stone Massages</li>
+        <li>Hydrating Spa Treatments</li>
+      </ul>
+    </section>
+
+    <section id="pricing">
+      <h2>Pricing</h2>
+      <p><strong>Standard Services:</strong></p>
+      <ul>
+        <li>Classic Manicure - $25</li>
+        <li>Classic Pedicure - $35</li>
+        <li>Gel Manicure - $40</li>
+        <li>Acrylic Full Set - $55</li>
+        <li>Dip Powder - $50</li>
+      </ul>
+      <p><strong>Package Deals:</strong></p>
+      <div class="package">Mani + Pedi Combo - $55</div>
+      <div class="package">Monthly Glam Pack (4 visits) - $180</div>
+      <p><strong>Add-ons:</strong></p>
+      <div class="addon">Nail Art (2 fingers) - $10</div>
+      <div class="addon">Hot Stone or Scrub - $12</div>
+    </section>
+
+    <section id="staff">
+      <h2>Our Team</h2>
+      <div class="staff">
+        <div class="staff-member">Lina Tran – Gel & Dip Powder Specialist (8 yrs exp)</div>
+        <div class="staff-member">Jasmine Moore – Acrylic Design Artist (6 yrs exp)</div>
+        <div class="staff-member">Khoa Nguyen – Spa Treatment Expert (10 yrs exp)</div>
+        <div class="staff-member">Maya Patel – Nail Art Master (5 yrs exp)</div>
+        <div class="staff-member">Riley Chen – Classic Manicure Guru (7 yrs exp)</div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq">
+        <strong>What are your hygiene practices?</strong>
+        <p>All tools are autoclave sterilized. Foot baths are disinfected after each use. Our techs wear gloves when required.</p>
+        <strong>Do you offer treatments and add-ons?</strong>
+        <p>Yes, including hot stones, scrubs, masks, and strengthening treatments for brittle nails.</p>
+        <strong>Can I choose my nail technician?</strong>
+        <p>Absolutely! Meet our team above or request a preferred specialist when booking.</p>
+        <strong>What products do you use?</strong>
+        <p>We feature OPI, CND, and cruelty-free vegan polish brands. Hypoallergenic options available.</p>
+        <strong>How long do services take?</strong>
+        <p>Manicure (30–45 min), Pedicure (45–60 min), Gel or Acrylics (60–90 min). Combo services available.</p>
+        <strong>What are your maintenance recommendations?</strong>
+        <p>Moisturize cuticles, use gloves for chores, and avoid harsh soaps. Gel nails last 2–3 weeks, classic ~1 week.</p>
+        <strong>Do you offer gel, dip, and acrylic?</strong>
+        <p>Yes! We explain pros/cons and help you transition between types if desired.</p>
+        <strong>Can you help with nail health?</strong>
+        <p>Yes. We offer growth-strengthening treatments and educate clients on aftercare and healthy habits.</p>
+        <strong>Any home care product suggestions?</strong>
+        <p>We sell cuticle oil, nail strengtheners, and recommend topcoats and moisturizing daily.</p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>📍 123 Glamour Blvd, Noblesville, IN</p>
+      <p>📞 (317) 555-1234</p>
+      <p>📧 info@luxetipsnailspa.com</p>
+      <p><strong>Hours:</strong></p>
+      <ul>
+        <li>Mon–Tue: 10AM – 6PM</li>
+        <li>Wed–Thu: 10AM – 8PM</li>
+        <li>Fri: 10AM – 7PM</li>
+        <li>Sun: 10AM – 4PM</li>
+      </ul>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 LuxeTips Nail Spa | Designed by Techsphere Solutions</p>
+  </footer>
+</body>
+</html>
